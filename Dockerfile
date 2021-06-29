@@ -27,7 +27,6 @@ RUN apt-get install -y \
         qt-at-spi\
         unzip\
         update-inetd\
-        firefox\
         okular\
         kolourpaint4\
         xterm\
